@@ -1,6 +1,6 @@
 # Hi I am Ken👋
 
-Shopify を中心に EC フロントエンド開発（Liquid/JS・React/TS） を担当し、  
+Shopify を中心に EC 開発（Liquid/JS・React/TS） を担当し、  
 要件定義〜設計〜実装〜運用まで一気通貫で推進しています。  
 開発メインですが、PM として 進捗・品質・リスク・予算（エンジニア領域） も担当経験あり。
 
