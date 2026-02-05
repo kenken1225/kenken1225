@@ -25,7 +25,6 @@ Shopify を中心に EC 開発（Liquid/JS・React/TS） を担当し、
 ### 1) nichijo — Japanese Lifestyle & Culture Store（Headless Shopify）
 
 - Repo: https://github.com/kenken1225/headless-shopify-nichijo-store
-- Demo: https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Fshopify-headless-nichijo-ke3erh3rp-kens-projects-dfbe6b24.vercel.app%252F%26nonce%3D873b76be9ef658dd75947bc2ec2178f84996b416304064d3f416461ed54dd9e1
 - Tech: Next.js / TypeScript / Shopify Storefront API / GraphQL
 - Focus:
   - Headless 構成での画面設計・データ取得設計
