@@ -5,7 +5,6 @@
 ### 1) nichijo — Japanese Lifestyle & Culture Store（Headless Shopify）
 
 - Repo: https://github.com/kenken1225/nichijo-store
-- URL: https://nichijo-jp.com/
 - Tech: Next.js / TypeScript / Shopify Storefront API / GraphQL
 - Focus:
   - Headless 構成での画面設計・データ取得設計
